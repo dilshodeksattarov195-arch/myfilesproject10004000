@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtereync",
+        "uuid": 6828000,
+        "checksum": "h2awnd"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
